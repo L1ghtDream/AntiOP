@@ -1,0 +1,4 @@
+name: Antiop
+version: ${project.version}
+main: me.lightdream.antiop.Antiop
+api-version: 1.16
